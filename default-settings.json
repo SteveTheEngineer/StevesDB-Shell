@@ -1,0 +1,12 @@
+{
+    "locale": "en_us",
+    "aliases": {
+        "sel": "stevesdbshell:select",
+        "quit": "stevesdbshell:exit",
+        "desel": "stevesdbshell:deselect",
+        "ls": "stevesdbshell:list",
+        "mod": "stevesdbshell:modify",
+        "col": "stevesdbshell:columns",
+        "?": "stevesdbshell:help"
+    }
+}
