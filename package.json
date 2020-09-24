@@ -1,6 +1,6 @@
 {
   "name": "stevesdb-shell",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple shell for the StevesDB Server",
   "main": "dist/stevesdbshell.js",
   "scripts": {
