@@ -133,7 +133,7 @@
     "command.modify.invalidoperation": "Invalid entry value operation: {0}",
     "command.modify.valueinput": "Modifier value: ",
     "command.modify.nomatch": "No entries match the filter or insufficient permissions",
-    "command.modfiy.modified": "All matched entries have been modified",
+    "command.modify.modified": "All matched entries have been modified",
 
     "command.rename.unauthorized": "Unauthorized",
     "command.rename.norenameables": "Nothing to rename",
